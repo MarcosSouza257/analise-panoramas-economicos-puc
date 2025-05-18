@@ -40,10 +40,5 @@ Este repositório contém o trabalho acadêmico desenvolvido no curso de Ciênci
 - Identificar tendências e padrões
 - Fornecer insights sobre o desenvolvimento econômico
 
-## 👨‍🎓 Autor
-- **Nome:** Marcos Roberto Souza
-- **Curso:** Ciências Econômicas
-- **Instituição:** PUC Minas
-
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 
